@@ -84,7 +84,7 @@ void tree()
 void bycle()
 {
     int gd = DETECT, gm, i, a;
-    initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");
+    initgraph(&gd, &gm, "");
 
     for (i = 0; i < 600; i++)
     {
